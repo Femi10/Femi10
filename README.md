@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Femi10
-- 👀 I’m interested in becoming a Data Analyst..
-- 🌱 I’m currently learning R and Python...
-- 💞️ I’m looking to collaborate on any project that can help me improve my skills and land a great Job.
+- 👀 I am a Data Analst wiht expertise in Power BI, SQL Alteryx and Python
+- 🌱 - 💞️ 
 - 📫 How to reach me ... olunugaoladipupo@gmail.com
 
 <!---
