@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Femi10
-- 👀 I am a Data Analst wiht expertise in Power BI, SQL Alteryx and Python
+- 👀 I am a Data Analyst with expertise in Power BI, SQL Alteryx and Python
 - 🌱 - 💞️ 
 - 📫 How to reach me ... olunugaoladipupo@gmail.com
 
